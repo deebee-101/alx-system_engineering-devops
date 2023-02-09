@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo chown julien hello
+chgrp julien hello
+chmod 753 hello
